@@ -1,5 +1,5 @@
 # webscraper
-A we scraping script that automates the process of searching a product on amazon website, collects the results, converts the results in to csv file and sends an email notification to you.
+A web scraping script that automates the process of searching a product on amazon website, collects the results, converts the results in to csv file and sends an email notification to you.
 
 ### How to run :
 - Clone the repo
