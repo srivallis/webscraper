@@ -1,0 +1,20 @@
+{
+  "name": "webscrape-amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "export-to-csv": "^0.2.1",
+    "jsdom": "^19.0.0",
+    "minimist": "^1.2.5",
+    "puppeteer": "^11.0.0",
+    "sendmail": "^1.6.1"
+  }
+}
